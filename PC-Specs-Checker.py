@@ -111,4 +111,9 @@ if __name__ == "__main__":
     if username == stored_username and password == stored_password:
         welcome(username)
     else:
-        print("Invalid username or password.")
+        if username != stored_username and password != stored_password:
+            print("Invalid username and password.")
+        elif username != stored_username:
+            print("Invalid username.")
+        else:
+            print("Invalid password.")
