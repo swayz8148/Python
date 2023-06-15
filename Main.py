@@ -6,7 +6,6 @@ import wmi
 import humanize
 import tkinter as tk
 from tkinter import messagebox, font
-from tkinter.ttk import Button
 
 def get_active_gpu_wmi():
     c = wmi.WMI()
