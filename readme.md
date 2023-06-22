@@ -24,18 +24,12 @@ Clone this repository to your local machine using the following command:
 git clone https://github.com/swayz8148/Python.git
 ```
 
-### Install Dependencies
-Some scripts may require additional libraries or packages. Install the necessary dependencies by running the following command:
-
-```
-pip install -r requirements.txt
-```
-
 ### Running the Scripts
 Navigate to the directory of the desired script and execute it using Python. For example:
 
 ```
-cd Case-Opening-Simulator-Auto-Sell
+cd Screen Recorder
+pip install -r requirements.txt
 python main.py
 ```
 
