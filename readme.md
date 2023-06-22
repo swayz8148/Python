@@ -1,4 +1,4 @@
-# Python Fun Projects
+# Python Projects
 
 This repository contains a collection of Python scripts that I enjoy working on when I'm bored or exploring different aspects of Python. These projects serve as learning exercises and allow me to experiment with various concepts and libraries.
 
