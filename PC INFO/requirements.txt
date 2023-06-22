@@ -1,0 +1,4 @@
+GPUtil==1.5.0
+psutil==5.8.0
+humanize==3.11.0
+wmi==1.5.1
